@@ -10,7 +10,7 @@
   "devDependencies": {
     "husky": "^0.14.3",
     "meteor-build-client": "^0.4.1",
-    "prettier": "^1.11.1",
+    "prettier": "^2.3.0",
     "pretty-quick": "^1.4.1"
   }
 }

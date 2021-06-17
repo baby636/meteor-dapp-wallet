@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.55",
-    "core-js": "^2.5.7"
+    "core-js": "^3.13.0"
   },
   "devDependencies": {
     "husky": "^0.14.3",
